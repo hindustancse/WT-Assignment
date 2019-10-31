@@ -1,0 +1,150 @@
+<html>
+
+<head>
+<title> ashritha's (17113263)</title>
+</head>
+
+<body>
+
+<table align="center">
+<tr>
+<td>
+<h1> flowers </h1>
+<td>
+</tr> 
+</table>
+
+<table align="center">
+
+<tr>
+<td>
+
+</td>
+</tr> 
+
+<tr>
+<td>
+<p>
+A flower, sometimes known as a bloom or blossom, is the reproductive structure found in flowering plants (plants of the division Magnoliophyta, also called angiosperms). The biological function of a flower is to affect reproduction, usually by providing a mechanism for the union of sperm with eggs. Flowers may facilitate outcrossing (fusion of sperm and eggs from different individuals in a population) or allow selfing (fusion of sperm and egg from the same flower). Some flowers produce diaspores without fertilization (parthenocarpy). Flowers contain sporangia and are the site where gametophytes develop. Many flowers have evolved to be attractive to animals, so as to cause them to be vectors for the transfer of pollen. After fertilization, the ovary of the flower develops into fruit containing seeds.
+
+In addition to facilitating the reproduction of flowering plants, flowers have long been admired and used by humans to bring beauty to their environment, and also as objects of romance, ritual, religion, medicine and as a source of food. 
+</p>
+<td>
+</tr> 
+
+<tr>
+<td>
+<h3> Aconite </h3>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+Also known as winter aconite. They spread easily and can be planted as tubers or seed. They are often found growing in patches and are spring’s first flower.
+   /// Plant in part sun.
+   ///Needs well-drained soil.
+   ///Blooms in early spring.
+</p>
+<td>
+</tr> 
+<tr>
+<td>
+<img src="1.jpg" alt="....." width="1000" height="500">
+<td>
+</tr> 	
+
+
+<tr>
+<td>
+<h3>Ageratum </h3>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+A tough plant that is a favorite for many gardens. Beautiful blue annuals known for their powder puff blooms.
+
+    ///Plant in full sun or partial shade.
+    ///Needs well-drained soil.
+    ///Blooms in mid-summer to mid-fall.
+</p>
+<td>
+</tr> 
+<tr>
+<td>
+<img src="2.jpg" alt="....." width="1000" height="500">
+<td>
+</tr> 
+
+
+<tr>
+<td>
+<h3> Allium</h3>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+Also known as flowering onion, this plant grows from a bulb or from seed, and produces globes of purple clusters of flowers atop long stems.
+
+    ///Plant in full sun
+    ///Needs moist but well-drained soil.
+    ///Blooms in late spring to mid-summer
+</p>
+<td>
+</tr> 
+<tr>
+<td>
+<img src="3.jpg" alt="....." width="1000" height="500">
+<td>
+</tr> 
+
+
+<tr>
+<td>
+<h3> Alstromeria</h3>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+A common flower to be found in floral arrangements due to its variation in colors and its ability to be dyed.
+
+    ///Plant in full sun or partial shade.
+    ///Needs well-drained soil.
+    ///Blooms in early spring to late summer.
+</p>
+<td>
+</tr> 
+<tr>
+<td>
+<img src="4.jpg" alt="....." width="1000" height="500">
+<td>
+</tr> 
+
+
+<tr>
+<td>
+<h3> Amaryllis</h3>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+Amaryllis flowers are one of the easiest to grow. They do very well indoors or out and come in a variety of colors. Try to plant the largest bulbs you can find because larger bulbs means more flowers!
+
+    ///Plant in partial shade.
+    ///Needs well-drained soil.
+    ///Blooms in early spring to mid-summer.
+</p>
+<td>
+</tr> 
+<tr>
+<td>
+<img src="5.jpg" alt="....." width="1000" height="500">
+<td>
+</tr> 
+
+</table>
+</body>
+</html>
