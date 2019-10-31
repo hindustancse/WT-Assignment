@@ -1,3 +1,18 @@
-# WT-Assignment
-
-This repository is only meant for the Web Technology assignments.Please save the file as your name or roll no and submit your assignment.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Formatting Text in HTML</title>
+</head>
+<body>
+    <p>This is <b>bold text</b>.</p>
+    <p>This is <strong>strongly important text</strong>.</p>
+    <p>This is <i>italic text</i>.</p>
+    <p>This is <em>emphasized text</em>.</p>
+    <p>This is <mark>highlighted text</mark>.</p>
+    <p>This is <code>computer code</code>.</p>
+    <p>This is <small>smaller text</small>.</p>
+    <p>This is <sub>subscript</sub> and <sup>superscript</sup> text.</p>
+    <p>This is <del>deleted text</del>.</p>
+    <p>This is <ins>inserted text</ins>.</p><p>This is <b>bold text</b>.</p>
+</body>
+</html>
