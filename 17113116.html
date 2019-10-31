@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function clickCounter() {
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.clickcount) {
+      localStorage.clickcount = Number(localStorage.clickcount)+1;
+    } else {
+      localStorage.clickcount = 1;
+    }
+    document.getElementById("result").innerHTML = "Your balance " + localStorage.clickcount+500 + " rupees";
+  } else {
+    document.getElementById("result").innerHTML = "Sorry, your browser does not support web storage...";
+  }
+}
+function checkCounter()
+{
+document.getElementById("result").innerHTML = "Your balance " + localStorage.clickcount+500 + " rupees";
+}
+</script>
+</head>
+<h1>Local storage</h1>
+<h2>Check your Bank Balance</h2>
+<body>
+<p>Deposite 1000 here on one click</p>
+<p><button onclick="clickCounter()" type="button">Click me!</button></p>
+<div id="result"></div>
+<p>Close the browser tab (or window),and check your balance ,it will reamins the same</p>
+<p><button onclick="checkCounter()" type="button">check here</button></p>
+
+
+</body>
+</html>
